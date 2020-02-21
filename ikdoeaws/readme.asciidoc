@@ -1,0 +1,15 @@
+= ikdoeict AWS monitor
+
+== install
+
+* install aws cli op je pc
+
+* create access key op je aws account
+* run ` aws configure` en gebruik bovenstaande
+* pip install requirements.txt
+
+== run
+
+Om het tooltje te starten: `python main.py`
+
+Output komt zichtbaar in de console, maar ook in een webinterface: http://localhost:5000
