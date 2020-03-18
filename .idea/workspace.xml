@@ -2,36 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee76c29c-afe6-4d71-89cc-66e17ec136fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ikdoeaws/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/publiccloud-admintools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/publiccloud-admintools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ikdoeaws/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ikdoeaws/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ikdoeaws/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ikdoeaws/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ikdoeaws/static/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ikdoeaws/static/sticky-footer-navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ikdoeaws/templates/index.html" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ikdoeaws/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ikdoeaws/.gitignore" />
-      </list>
-    </option>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -43,53 +40,58 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="896" />
-    <option name="height" value="502" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="publiccloud-admintools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="publiccloud-admintools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="publiccloud-admintools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="publiccloud-admintools" type="462c0819:PsiDirectoryNode" />
-              <item name="ikdoeaws" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1Y8Qef29RwN4mjNdYMe9Jv4ChAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229" restartOnDisconnect="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="publiccloud-admintools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ikdoeaws" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ikdoeaws/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Python.main" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,49 +104,104 @@
       <option name="presentableId" value="Default" />
       <updated>1582300013380</updated>
       <workItem from="1582300015158" duration="38000" />
+      <workItem from="1582321841457" duration="5064000" />
+      <workItem from="1582667536645" duration="2336000" />
+      <workItem from="1583676602115" duration="16843000" />
+      <workItem from="1584264796183" duration="7026000" />
+      <workItem from="1584388503138" duration="1927000" />
+      <workItem from="1584395661752" duration="10311000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ikdoeaws/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583676851805">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583676851805" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1584524878862">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584524878862" />
+    <state width="1877" height="219" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1584447721737" />
+    <state width="723" height="264" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584395720564" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1584524878861">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584524878861" />
+    <state width="1877" height="219" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1584447721736" />
+    <state width="723" height="264" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584395720563" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1584524878861">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584524878861" />
+    <state width="1877" height="219" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1584447721736" />
+    <state width="723" height="264" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584395720563" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1584524878862">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584524878862" />
+    <state width="1877" height="219" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1584447721736" />
+    <state width="723" height="264" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584395720563" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1584446105458">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584446105458" />
+    <state width="723" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584395720564" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1584446105458">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584446105458" />
+    <state width="723" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1584395720564" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1584446105458">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584446105458" />
+    <state width="723" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1584395720564" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1584446105458">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1584446105458" />
+    <state width="723" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584395720564" />
+    <state width="1478" height="262" key="GridCell.Tab.2.bottom" timestamp="1582723329201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582723329201" />
+    <state width="1478" height="262" key="GridCell.Tab.2.center" timestamp="1582723329201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1582723329201" />
+    <state width="1478" height="262" key="GridCell.Tab.2.left" timestamp="1582723329201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1582723329201" />
+    <state width="1478" height="262" key="GridCell.Tab.2.right" timestamp="1582723329201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="262" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1582723329201" />
+    <state x="285" y="63" key="SettingsEditor" timestamp="1582321953642">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="285" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1582321953642" />
+    <state x="489" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1584388549190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="489" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584388549190" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ikdoeaws/main.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/publiccloud_admintools$main.coverage" NAME="main Coverage Results" MODIFIED="1584447721724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ikdoeaws" />
   </component>
 </project>
