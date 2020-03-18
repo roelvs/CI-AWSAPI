@@ -120,4 +120,9 @@ def hello_world():
     return "hello world"
 
 
-app.run()
+application = app
+
+#below: only needed for a local dev server..
+if __name__ == "__main__":
+    # Only for debugging while developing. This will start a flask dev server, listening on port 80
+    application.run(host='0.0.0.0', debug=False, port=8080)
